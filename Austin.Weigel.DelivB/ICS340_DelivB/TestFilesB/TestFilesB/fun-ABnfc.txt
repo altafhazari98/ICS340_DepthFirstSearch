@@ -1,0 +1,17 @@
+~            Val DC PE WR NY CB MV GB DL NO AF CP TB LA SS SF AC
+Dallas        C   ~  9  7  5  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Philadelphia  P  10  ~  7  5  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Washington    ~  10  9  ~  5  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+NewYorkG      ~  10  9  7  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Chicago       C   ~  ~  ~  ~  ~  8  6  6  ~  ~  ~  ~  ~  ~  ~  ~
+Minnesota     ~   ~  ~  ~  ~ 12  ~  6  6  ~  ~  ~  ~  ~  ~  ~  ~
+GreenBay      ~   ~  ~  ~  ~ 12  8  ~  6  ~  ~  ~  ~  ~  ~  ~  ~
+Detroit       ~   ~  ~  ~  ~ 12  8  6  ~  ~  ~  ~  ~  ~  ~  ~  ~
+NewOrleans    C   ~  ~  ~  ~  ~  ~  ~  ~  ~  7  7  5  ~  ~  ~  ~
+Atlanta       ~   ~  ~  ~  ~  ~  ~  ~  ~ 13  ~  7  5  ~  ~  ~  ~
+Carolina      ~   ~  ~  ~  ~  ~  ~  ~  ~ 13  7  ~  5  ~  ~  ~  ~
+TampaBay      ~   ~  ~  ~  ~  ~  ~  ~  ~ 13  7  7  ~  ~  ~  ~  ~
+LosAngeles    S   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~ 10  4  3
+Seattle       P   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~ 13  ~  4  3
+SanFrancisco  ~   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~ 13 10  ~  3
+Arizona       ~   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~ 13 10  4  ~

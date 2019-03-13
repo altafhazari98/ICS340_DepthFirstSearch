@@ -1,0 +1,17 @@
+~            Val NE MD BB NY BR PS CL CI HT IC TT JJ KC LA DB OR
+NewEngland    S   x  >  >  >  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Miami         ~   <  x  >  >  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Buffalo       ~   <  <  x  >  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+NewYorkJ      ~   <  <  <  x  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Baltimore     C   ~  ~  ~  ~  x  >  >  >  ~  ~  ~  ~  ~  ~  ~  ~
+Pittsburgh    ~   ~  ~  ~  ~  <  x  >  >  ~  ~  ~  ~  ~  ~  ~  ~
+Cleveland     ~   ~  ~  ~  ~  <  <  x  >  ~  ~  ~  ~  ~  ~  ~  ~
+Cincinnati    ~   ~  ~  ~  ~  <  <  <  x  ~  ~  ~  ~  ~  ~  ~  ~
+Houston       C   ~  ~  ~  ~  ~  ~  ~  ~  x  >  >  >  ~  ~  ~  ~
+Indianapolis  P   ~  ~  ~  ~  ~  ~  ~  ~  <  x  >  >  ~  ~  ~  ~
+Tennessee     ~   ~  ~  ~  ~  ~  ~  ~  ~  <  <  x  >  ~  ~  ~  ~
+Jacksonville  ~   ~  ~  ~  ~  ~  ~  ~  ~  <  <  <  x  ~  ~  ~  ~
+KansasCity    C   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  x  =  >  >
+LosAngelesC   P   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  =  x  >  >
+Denver        ~   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  <  <  x  >
+Oakland       ~   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  <  <  <  x
